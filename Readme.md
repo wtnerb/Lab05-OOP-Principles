@@ -11,13 +11,15 @@
 - Include a Readme.md (contents described below)
 
 ## Directions
+Your job is to build out a structure of a zoo within Visual Studio and a digital diagram. Have fun with this project, No need to study 
+or research the scientific names of the animals, kepe it simple (i.e. Animal, Mammel, Reptile, Bird, Dog, Fish, etc...)
 
-- Using all 4 of the Object Oriented Principles (OOPs): 
-		- Build out the hierarchical class structure of a zoo within Visual Studio and a digital diagram. 
-		- There should be at least 3 layers of inheritance with at least 6 different types of animals. 
-	- Prove that the OOP principles are being used by returning strings as neccesary to prove that a methods were propertly implemented or inherited.
-		- Examples include: `Eat()` `Sleep()` `Sound()` etc... 
-		- You are allowed to use these example methods, along with others not listed
+Using all 4 of the Object Oriented Principles (OOPs): 
+	- Build out the hierarchical class structure of a zoo within Visual Studio and a digital diagram. 
+	- There should be at least 3 layers of inheritance with at least 6 different types of animals. 
+	- Prove that the OOP principles are being used by returning strings as neccesary to prove that a methods were propertly  implemented or inherited.
+	- Examples include: `Eat()` `Sleep()` `Sound()` etc... 
+	- You are allowed to use these example methods, along with others not listed
 	- Be sure to include a diagram with your solution of how your zoo is mapped out. 
 	- Include the following labels:
 		1. Label the parent and derived classes
