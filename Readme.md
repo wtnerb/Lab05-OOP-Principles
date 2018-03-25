@@ -15,17 +15,17 @@ Your job is to build out a structure of a zoo within Visual Studio and a digital
 or research the scientific names of the animals, kepe it simple (i.e. Animal, Mammel, Reptile, Bird, Dog, Fish, etc...)
 
 Using all 4 of the Object Oriented Principles (OOPs): 
-	- Build out the hierarchical class structure of a zoo within Visual Studio and a digital diagram. 
-	- There should be at least 3 layers of inheritance with at least 6 different types of animals. 
-	- Prove that the OOP principles are being used by returning strings as neccesary to prove that a methods were propertly  implemented or inherited.
-	- Examples include: `Eat()` `Sleep()` `Sound()` etc... 
-	- You are allowed to use these example methods, along with others not listed
-	- Be sure to include a diagram with your solution of how your zoo is mapped out. 
-	- Include the following labels:
-		1. Label the parent and derived classes
-		2. Label the abstract classes and concrete classes
-		3. Label the access modifiers for each of the classes
-		4. Label where you are using Polymorphism in your program. Where are the virtual and abstract methods defined, and where are they being overridden?
+1. Build out the hierarchical class structure of a zoo within Visual Studio and a digital diagram. 
+2. There should be at least 3 layers of inheritance with at least 6 different types of animals. 
+3. Prove that the OOP principles are being used by returning strings as neccesary to prove that a methods were propertly  implemented or inherited.
+4. Examples include: `Eat()` `Sleep()` `Sound()` etc... 
+5. You are allowed to use these example methods, along with others not listed
+6. Be sure to include a diagram with your solution of how your zoo is mapped out. 
+7. Include the following labels:
+	1. Label the parent and derived classes
+	2. Label the abstract classes and concrete classes
+	3. Label the access modifiers for each of the classes
+	4. Label where you are using Polymorphism in your program. Where are the virtual and abstract methods defined, and where are they being overridden?
 
 
 ## Components
