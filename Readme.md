@@ -32,15 +32,15 @@
 - Have at least 4 abstract methods (make sure you override them)
 - Have at least 4 virtual methods (make sure you override them)
 
-- Your (digital) drawing of your zoo diagram should be clearly labeled of which classes
+Your readme is extremely important in this lab because it will be a guide for us to know exactly what you did where and how. 
+Define for me, in your readme, in addition to what is described below:
+1. The definitions of each of the OOP principles (in your own words), 
+2. A **couple** examples (you do not have to write all occurances out) where you are practing each of the OOP principles. 
 
-Your readme is extremely important in this lab because it will be a guide for us to know exactly what you did where and how. Define for me, in your readme, the
-definitions of each of the OOP principles (in your own words), and provide a **couple** examples (you do not have to write all occurances out) where you are practing each of the OOP principles. 
 Your program class should instantiate each of the concrete animals to prove that the functionality for each of the animals is as desired. 
 
 ## Example
 Please refer to the included diagram and code base as an example of the expectiation. 
-
 
 ## ReadMe
 A README is a module consumer's first -- and maybe only -- look into your creation. The consumer wants a module to fulfill their need, so you must explain exactly what need your module fills, and how effectively it does so.
