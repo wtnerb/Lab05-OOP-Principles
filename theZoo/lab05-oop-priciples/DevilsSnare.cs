@@ -7,7 +7,7 @@ namespace lab05_oop_priciples
     public class DevilsSnare : Plant
     {
         public override string Size { get; set; } = "large shrubbery";
-        public override string Sustenance ()
+        public override string Sustenance()
         {
             return "Animal flesh";
         }

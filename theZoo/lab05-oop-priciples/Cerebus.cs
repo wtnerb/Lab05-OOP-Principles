@@ -4,16 +4,17 @@ using System.Text;
 
 namespace lab05_oop_priciples
 {
-    public class Cerberus : Mammal
+   public class Cerberus : Mammal
     {
         public override byte Heads { get; set; } = 3;
         public override string Size { get; set; } = "Large";
-        public override string Sustenance() {
+        public override string Sustenance()
+        {
             return "Raw flesh";
         }
         public override string Source()
         {
-            return "Theogeny (circa 700 BCE) by Hesiod";
+            return "Theogony (circa 700 BCE) by Hesiod";
         }
         public override string Locomotion()
         {

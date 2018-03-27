@@ -15,7 +15,7 @@ namespace lab05_oop_priciples
         {
             Name = name;
         }
-        public override string[] SlainBy { get; set; } = {"Phylactery destruction"};
+        public override string[] SlainBy { get; set; } = { "Phylactery destruction" };
 
         public override string Name { get; set; }
     }

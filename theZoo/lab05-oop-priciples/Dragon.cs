@@ -10,6 +10,7 @@ namespace lab05_oop_priciples
         {
             return "Whatever it wants, really";
         }
+
         public override string Source()
         {
             return "Saint George and the Dragon(6th century ?) by Someone";
@@ -21,9 +22,11 @@ namespace lab05_oop_priciples
             Console.WriteLine(str);
             return str;
         }
-        public void BreathFire()
+        public string BreathFire()
         {
-            Console.WriteLine("Crispify that!");
+            string s = "Crispify that!";
+            Console.WriteLine(s);
+            return s;
         }
     }
 }

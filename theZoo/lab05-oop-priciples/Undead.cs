@@ -12,8 +12,8 @@ namespace lab05_oop_priciples
             return "null";
         }
         public override string Size { get; set; } = "varies by base";
-        virtual public string Base { get; set; } = "human";
-        public string Basis()
+        virtual public string Base { get; set; } = "Human";
+        virtual public string Basis()
         {
             return $"this was once a living {Base}";
         }
