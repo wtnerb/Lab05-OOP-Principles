@@ -4,9 +4,8 @@ using System.Text;
 
 namespace lab05_oop_priciples
 {
-    public abstract class Lizard : Animal
+    abstract class Lizard : Animal
     {
-
         public bool HasScales = true;
         public bool LaysEggs = true;
     }

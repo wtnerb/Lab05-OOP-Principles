@@ -4,17 +4,11 @@ using System.Text;
 
 namespace lab05_oop_priciples
 {
-    public class Hydra : Lizard
+    class Hydra : Lizard
     {
-        public override string Sustenance()
-        {
-            return "Whatever it wants, really";
-        }
-        public override string Source()
-        {
-            return "Theogony (circa 700 BCE) by Hesiod";
-        }
         public override byte Heads { get; set; } = 9;
+        public override string Source { get; set; } = "Theogony (circa 700 BCE) by Hesiod";
+        public override string Sustenance { get; set; } = "Whatever it wants, really";
         public override string Size { get; set; } = "Giant";
         public override string Locomotion()
         {
