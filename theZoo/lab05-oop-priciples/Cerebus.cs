@@ -6,7 +6,7 @@ namespace lab05_oop_priciples
 {
    public class Cerberus : Mammal
     {
-        public override byte Heads { get; set; } = 3;
+        public override byte Heads { get; protected set; } = 3;
         public override string Size { get; set; } = "Large";
         public override string Sustenance()
         {
