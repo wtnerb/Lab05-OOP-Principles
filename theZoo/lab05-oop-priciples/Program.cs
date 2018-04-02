@@ -23,6 +23,9 @@ namespace lab05_oop_priciples
             Console.WriteLine($"Real vampires doen't sparkle. They are weak to {theCount.Weaknesses[1]}, it might \neven kill them.");
             Console.WriteLine($"Ents are awesome and wise, for they are old. Their lifespan is {treebeard.Lifespan}.");
             Console.WriteLine($"Did you know the origin of the modern zombie is in {mathProfessor.Source()}?");
+            Console.WriteLine();
+            Console.WriteLine("press any key to exit.");
+            Console.ReadKey();
         }
     }
 }
