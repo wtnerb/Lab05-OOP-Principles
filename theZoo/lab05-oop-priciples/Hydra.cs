@@ -6,7 +6,7 @@ namespace lab05_oop_priciples
 {
     public class Hydra : Lizard
     {
-        public override byte Heads { get; set; } = 9;
+        public override byte Heads { get; protected set; } = 9;
         public override string Sustenance()
         {
             return "Whatever it wants, really";

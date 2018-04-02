@@ -10,6 +10,6 @@ namespace lab05_oop_priciples
     {
         public virtual byte Legs { get; set; } = 4;
         public abstract string Locomotion();
-        public virtual byte Heads { get; set; } = 1;
+        public virtual byte Heads { get; protected set; } = 1;
     }
 }
